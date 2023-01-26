@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJdky/4xGqNxm6uTBB08LsAUcsi0A6gP25p54OiGLk5dOj11/57TEjaST+i7EzDJLbpzDdYxLluonBYu9kXaCw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Scraping\\Scraping\\Scraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.web.webview2\\1.0.1462.37\\microsoft.web.webview2.1.0.1462.37.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
